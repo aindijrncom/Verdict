@@ -1,0 +1,10 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/build
+/install
+docs/VerdictUserManual2007/HexJacobian.log
+/.cache/clangd/index
+/.vscode
+/build_ninjia
