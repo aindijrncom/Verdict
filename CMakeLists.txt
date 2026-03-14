@@ -43,7 +43,7 @@ if (VERDICT_MANGLE)
 endif ()
 mark_as_advanced(VERDICT_MANGLE)
 
-option(VERDICT_ENABLE_TESTING "Should tests of the VERDICT library be built?" ON)
+option(VERDICT_ENABLE_TESTING "Should tests of the VERDICT library be built?" OFF)
 
 set(verdict_HEADERS
   verdict.h
